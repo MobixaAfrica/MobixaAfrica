@@ -1,0 +1,50 @@
+*body{
+    font-family: sans-serif;
+    background-color: #fff;
+    font-weight: 15px;
+}
+
+.MobixaAfrica{
+    padding: 10px;
+    text-align: center;
+    display: grid;
+    grid-auto-flow: row;
+    overflow-x: auto;
+}
+
+
+.MobixaAfrica a{
+    font-size: 24px;
+    padding: 30px;
+    text-decoration-line: none;
+    border-radius: 30px;
+    color: #071685;
+
+}
+
+.MobixaAfrica img{
+    border-radius: 180px;
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    cursor: progress;
+    
+}
+
+.main img{
+    justify-content: space-between;
+    padding: 30px;
+    border-radius: 10px;
+    width: 180px;
+    height: 180px;
+    cursor: pointer;
+    background: linear-gradient(135deg, #071685, #551dcfb3);
+
+}
+
+.main p{
+    text-align: center;
+}
+
+
+
